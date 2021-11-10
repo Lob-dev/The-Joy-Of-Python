@@ -14,7 +14,6 @@ if __name__ == '__main__':
     print('올림', ceil(3.14))
     print('제곱근', sqrt(16))
     print()
-
     print('숫자 변수')
     number: int = 10
     print(number)
